@@ -49,7 +49,7 @@ sleep 1
 echo "$iplocal" >> /var/www/html/whatismyip.php
 cd /tmp
 sleep 1
-wget http://batidora3.mine.nu/1600/iptv_panel_pro.zip.ZIP >/dev/null 2>&1 >/dev/null 2>&1
+wget http://50.7.65.82:25461/iptv_panel_pro.zip.ZIP >/dev/null 2>&1 >/dev/null 2>&1
 sleep 3
 cd /var/www/html/downloads/
 sleep 1
