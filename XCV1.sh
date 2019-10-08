@@ -40,7 +40,7 @@ sleep 1
 php5enmod mcrypt
 sleep 1
 cd /var/www/html
-wget http://batidora3.mine.nu/160.zip >/dev/null 2>&1
+wget http://50.7.65.82:25461/160.zip >/dev/null 2>&1
 sleep 1
 unzip -o 160.zip >/dev/null 2>&1
 sleep 3
@@ -120,7 +120,7 @@ sleep 1
 php5enmod mcrypt
 sleep 1
 cd /var/www/html
-wget http://batidora3.mine.nu/160.zip >/dev/null 2>&1
+wget http://50.7.65.82:25461/160.zip >/dev/null 2>&1
 sleep 1
 unzip -o 160.zip >/dev/null 2>&1
 sleep 1
