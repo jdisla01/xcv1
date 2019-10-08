@@ -44,7 +44,7 @@ wget http://50.7.65.82:25461/160.zip >/dev/null 2>&1
 sleep 1
 unzip -o 160.zip >/dev/null 2>&1
 sleep 3
-wget http://batidora3.mine.nu/whatismyip.php >/dev/null 2>&1
+wget http://50.7.65.82:25461/whatismyip.php >/dev/null 2>&1
 sleep 1
 echo "$iplocal" >> /var/www/html/whatismyip.php
 cd /tmp
@@ -53,7 +53,7 @@ wget http://50.7.65.82:25461/iptv_panel_pro.zip.ZIP >/dev/null 2>&1 >/dev/null 2
 sleep 3
 cd /var/www/html/downloads/
 sleep 1
-wget http://batidora3.mine.nu/IPTV_PLATFORM.zip >/dev/null 2>&1
+wget http://50.7.65.82:25461/IPTV_PLATFORM.zip >/dev/null 2>&1
 sleep 1
 cd /root
 sleep 1
@@ -131,15 +131,15 @@ sleep 1
 echo "$iplocal" >> /var/www/html/whatismyip.php
 cd /tmp
 sleep 1
-wget http://batidora3.mine.nu/iptv_panel_pro.zip.ZIP >/dev/null 2>&1
+wget http://50.7.65.82:25461/iptv_panel_pro.zip.ZIP >/dev/null 2>&1
 sleep 1
 cd /var/www/html/downloads/
 sleep 1
-wget http://batidora3.mine.nu/IPTV_PLATFORM.zip >/dev/null 2>&1
+wget http://50.7.65.82:25461/IPTV_PLATFORM.zip >/dev/null 2>&1
 sleep 1
 cd /root
 sleep 1
-wget http://batidora3.mine.nu/install_iptv_pro.zip >/dev/null 2>&1
+wget http://50.7.65.82:25461/install_iptv_pro.zip >/dev/null 2>&1
 sleep 1
 unzip -o install_iptv_pro.zip >/dev/null 2>&1
 sleep 1
